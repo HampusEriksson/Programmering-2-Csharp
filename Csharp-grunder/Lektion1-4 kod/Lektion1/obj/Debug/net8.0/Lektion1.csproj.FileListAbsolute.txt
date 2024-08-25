@@ -1,0 +1,14 @@
+C:\Users\hampu\source\repos\Lektion1\Lektion1\bin\Debug\net8.0\Lektion1.exe
+C:\Users\hampu\source\repos\Lektion1\Lektion1\bin\Debug\net8.0\Lektion1.deps.json
+C:\Users\hampu\source\repos\Lektion1\Lektion1\bin\Debug\net8.0\Lektion1.runtimeconfig.json
+C:\Users\hampu\source\repos\Lektion1\Lektion1\bin\Debug\net8.0\Lektion1.dll
+C:\Users\hampu\source\repos\Lektion1\Lektion1\bin\Debug\net8.0\Lektion1.pdb
+C:\Users\hampu\source\repos\Lektion1\Lektion1\obj\Debug\net8.0\Lektion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hampu\source\repos\Lektion1\Lektion1\obj\Debug\net8.0\Lektion1.AssemblyInfoInputs.cache
+C:\Users\hampu\source\repos\Lektion1\Lektion1\obj\Debug\net8.0\Lektion1.AssemblyInfo.cs
+C:\Users\hampu\source\repos\Lektion1\Lektion1\obj\Debug\net8.0\Lektion1.csproj.CoreCompileInputs.cache
+C:\Users\hampu\source\repos\Lektion1\Lektion1\obj\Debug\net8.0\Lektion1.dll
+C:\Users\hampu\source\repos\Lektion1\Lektion1\obj\Debug\net8.0\refint\Lektion1.dll
+C:\Users\hampu\source\repos\Lektion1\Lektion1\obj\Debug\net8.0\Lektion1.pdb
+C:\Users\hampu\source\repos\Lektion1\Lektion1\obj\Debug\net8.0\Lektion1.genruntimeconfig.cache
+C:\Users\hampu\source\repos\Lektion1\Lektion1\obj\Debug\net8.0\ref\Lektion1.dll

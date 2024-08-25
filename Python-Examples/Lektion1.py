@@ -3,6 +3,7 @@ import random
 
 # Variabler och datatyper
 name = "Alice"
+name = "Bob"
 age = 25
 height = 1.75
 

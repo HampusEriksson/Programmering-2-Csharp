@@ -1,11 +1,18 @@
 
-# Lista (motsvarande array i C#)
-numbers = [1, 2, 3, 4, 5]
-print(f"Första talet i listan: {numbers[0]}")
+# While-loop
+counter = 0
+while counter < 5:
+    print(f"While loop, iteration {counter}")
+    counter += 1
 
-# Lägg till ett element i listan
-numbers.append(6)
-print(f"Lista efter append: {numbers}")
+# For-loop över en lista
+fruits = ["äpple", "banan", "körsbär"]
+for fruit in fruits:
+    print(f"For loop, frukt: {fruit}")
+
+# For-loop med range
+for i in range(5):
+    print(f"For loop med range, iteration {i}")
 
 # Dictionary (motsvarande Dictionary i C#)
 person = {
@@ -13,11 +20,6 @@ person = {
     "age": 25,
     "city": "Stockholm"
 }
-print(f"Personens namn: {person['name']}")
-
-# Lägg till ett nyckel-värde par
-person["job"] = "lärare"
-print(f"Uppdaterad dictionary: {person}")
 
 # Loop genom dictionary
 for key, value in person.items():

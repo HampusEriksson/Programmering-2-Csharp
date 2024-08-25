@@ -1,15 +1,20 @@
 
-# While-loop
-counter = 0
-while counter < 5:
-    print(f"While loop, iteration {counter}")
-    counter += 1
+# Lista (motsvarande array i C#)
+numbers = [1, 2, 3, 4, 5]
+print(f"Första talet i listan: {numbers[0]}")
 
-# For-loop över en lista
-fruits = ["äpple", "banan", "körsbär"]
-for fruit in fruits:
-    print(f"For loop, frukt: {fruit}")
+# Lägg till ett element i listan
+numbers.append(6)
+print(f"Lista efter append: {numbers}")
 
-# For-loop med range
-for i in range(5):
-    print(f"For loop med range, iteration {i}")
+# Dictionary (motsvarande Dictionary i C#)
+person = {
+    "name": "Alice",
+    "age": 25,
+    "city": "Stockholm"
+}
+print(f"Personens namn: {person['name']}")
+
+# Lägg till ett nyckel-värde par
+person["job"] = "lärare"
+print(f"Uppdaterad dictionary: {person}")

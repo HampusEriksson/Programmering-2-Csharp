@@ -1,0 +1,15 @@
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\C#-Grunder\bin\Debug\net8.0\C#-Grunder.exe
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\C#-Grunder\bin\Debug\net8.0\C#-Grunder.deps.json
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\C#-Grunder\bin\Debug\net8.0\C#-Grunder.runtimeconfig.json
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\C#-Grunder\bin\Debug\net8.0\C#-Grunder.dll
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\C#-Grunder\bin\Debug\net8.0\C#-Grunder.pdb
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\C#-Grunder\obj\Debug\net8.0\C#-Grunder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\C#-Grunder\obj\Debug\net8.0\C#-Grunder.AssemblyInfoInputs.cache
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\C#-Grunder\obj\Debug\net8.0\C#-Grunder.AssemblyInfo.cs
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\C#-Grunder\obj\Debug\net8.0\C#-Grunder.csproj.CoreCompileInputs.cache
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\C#-Grunder\obj\Debug\net8.0\C#-Grunder.sourcelink.json
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\C#-Grunder\obj\Debug\net8.0\C#-Grunder.dll
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\C#-Grunder\obj\Debug\net8.0\refint\C#-Grunder.dll
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\C#-Grunder\obj\Debug\net8.0\C#-Grunder.pdb
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\C#-Grunder\obj\Debug\net8.0\C#-Grunder.genruntimeconfig.cache
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\C#-Grunder\obj\Debug\net8.0\ref\C#-Grunder.dll

@@ -1,6 +1,6 @@
 
 import random
-
+# Python
 # Variabler och datatyper
 name = "Alice"
 name = "Bob"
@@ -15,8 +15,10 @@ user_age = int(input("Hur gammal är du? "))
 print(f"Hej {user_name}, du är {user_age} år gammal.")
 
 # If-else
-if user_age >= 18:
+if user_age > 18:
     print("Du är myndig.")
+elif user_age == 18:
+    print("Grattis, du blev precis myndig.")
 else:
     print("Du är inte myndig.")
 

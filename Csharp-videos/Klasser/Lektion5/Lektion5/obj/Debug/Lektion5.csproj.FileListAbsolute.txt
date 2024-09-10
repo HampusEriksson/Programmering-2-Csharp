@@ -1,0 +1,7 @@
+C:\Users\hampu\Documents\GitHub\Programmering-2-Csharp\Csharp-videos\Klasser\Lektion5\Lektion5\bin\Debug\Lektion5.exe.config
+C:\Users\hampu\Documents\GitHub\Programmering-2-Csharp\Csharp-videos\Klasser\Lektion5\Lektion5\bin\Debug\Lektion5.exe
+C:\Users\hampu\Documents\GitHub\Programmering-2-Csharp\Csharp-videos\Klasser\Lektion5\Lektion5\bin\Debug\Lektion5.pdb
+C:\Users\hampu\Documents\GitHub\Programmering-2-Csharp\Csharp-videos\Klasser\Lektion5\Lektion5\obj\Debug\Lektion5.csproj.AssemblyReference.cache
+C:\Users\hampu\Documents\GitHub\Programmering-2-Csharp\Csharp-videos\Klasser\Lektion5\Lektion5\obj\Debug\Lektion5.csproj.CoreCompileInputs.cache
+C:\Users\hampu\Documents\GitHub\Programmering-2-Csharp\Csharp-videos\Klasser\Lektion5\Lektion5\obj\Debug\Lektion5.exe
+C:\Users\hampu\Documents\GitHub\Programmering-2-Csharp\Csharp-videos\Klasser\Lektion5\Lektion5\obj\Debug\Lektion5.pdb

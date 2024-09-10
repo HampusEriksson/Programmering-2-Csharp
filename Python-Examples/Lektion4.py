@@ -3,7 +3,7 @@
 def greet(name):
     print(f"Hej {name}!")
 
-greet("Alice")
+print(greet("whatever"))
 
 # Funktion med returvärde
 def add(a, b):

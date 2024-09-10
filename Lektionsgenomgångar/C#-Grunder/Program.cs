@@ -94,9 +94,28 @@ foreach (var item in person)
 }
 
 
+// Funktion med returvärde
+float add(float a, float b)
+{
+    return a + b;
+}
+
+float result = add(3, 5);
+Console.WriteLine($"Summan är {result}");
 
 // Funktion utan returvärde
+void greet(string name)
+{
+    Console.WriteLine($"Hej {name}");
+}
 
-// Funktion med returvärde
+greet("Alice");
 
 // Funktion med standardvärden
+void greet_with_time(string name, string time_of_day = "dag")
+{
+    Console.WriteLine($"God {time_of_day} {name}");
+}
+
+greet_with_time("Alice", "kväll");
+greet_with_time("Bob");

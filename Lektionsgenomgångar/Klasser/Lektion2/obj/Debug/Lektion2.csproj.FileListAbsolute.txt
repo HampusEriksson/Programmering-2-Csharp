@@ -1,0 +1,7 @@
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\Klasser\Lektion2\bin\Debug\Lektion2.exe.config
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\Klasser\Lektion2\bin\Debug\Lektion2.exe
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\Klasser\Lektion2\bin\Debug\Lektion2.pdb
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\Klasser\Lektion2\obj\Debug\Lektion2.csproj.AssemblyReference.cache
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\Klasser\Lektion2\obj\Debug\Lektion2.csproj.CoreCompileInputs.cache
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\Klasser\Lektion2\obj\Debug\Lektion2.exe
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\Klasser\Lektion2\obj\Debug\Lektion2.pdb

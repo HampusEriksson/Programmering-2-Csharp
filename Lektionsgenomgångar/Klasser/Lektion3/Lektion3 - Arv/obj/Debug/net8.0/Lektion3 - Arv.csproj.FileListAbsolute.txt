@@ -1,0 +1,15 @@
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\Klasser\Lektion3\Lektion3 - Arv\bin\Debug\net8.0\Lektion3 - Arv.exe
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\Klasser\Lektion3\Lektion3 - Arv\bin\Debug\net8.0\Lektion3 - Arv.deps.json
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\Klasser\Lektion3\Lektion3 - Arv\bin\Debug\net8.0\Lektion3 - Arv.runtimeconfig.json
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\Klasser\Lektion3\Lektion3 - Arv\bin\Debug\net8.0\Lektion3 - Arv.dll
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\Klasser\Lektion3\Lektion3 - Arv\bin\Debug\net8.0\Lektion3 - Arv.pdb
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\Klasser\Lektion3\Lektion3 - Arv\obj\Debug\net8.0\Lektion3 - Arv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\Klasser\Lektion3\Lektion3 - Arv\obj\Debug\net8.0\Lektion3 - Arv.AssemblyInfoInputs.cache
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\Klasser\Lektion3\Lektion3 - Arv\obj\Debug\net8.0\Lektion3 - Arv.AssemblyInfo.cs
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\Klasser\Lektion3\Lektion3 - Arv\obj\Debug\net8.0\Lektion3 - Arv.csproj.CoreCompileInputs.cache
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\Klasser\Lektion3\Lektion3 - Arv\obj\Debug\net8.0\Lektion3 - Arv.sourcelink.json
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\Klasser\Lektion3\Lektion3 - Arv\obj\Debug\net8.0\Lektion3 - Arv.dll
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\Klasser\Lektion3\Lektion3 - Arv\obj\Debug\net8.0\refint\Lektion3 - Arv.dll
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\Klasser\Lektion3\Lektion3 - Arv\obj\Debug\net8.0\Lektion3 - Arv.pdb
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\Klasser\Lektion3\Lektion3 - Arv\obj\Debug\net8.0\Lektion3 - Arv.genruntimeconfig.cache
+C:\Users\HampusEriksson\Documents\GitHub\Programmering-2-Csharp\Lektionsgenomgångar\Klasser\Lektion3\Lektion3 - Arv\obj\Debug\net8.0\ref\Lektion3 - Arv.dll
